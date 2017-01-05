@@ -1,18 +1,18 @@
 <html>
  <h1>
- <title> First Heading </title>
+ First Heading
  </h1>
-  <p>
-First <u>Paragraph</u>
- </p>
- <p> 
+<p>
+First <ins> Paragraph </ins>
+</p>
+<p>
   Second <i>Paragraph</i> 
   </p> 
   <p> 
     Third <strong>Paragraph</strong> 
   </p>
  <h2>Second Heading </h2>
- <img src=" Alberta Canada.jpg" alt="Beautiful View" style="width:736px;height:1104px;">
+ <img src=" /pictures/MM/Alberta Canada.jpg" alt="Beautiful View" style="width:736px;height:1104px;">
  <p> 
   Second <i>Paragraph</i> 
   </p> 
@@ -20,6 +20,7 @@ First <u>Paragraph</u>
     Third <strong>Paragraph</strong> 
   </p>
  </html>
+ 
  
  
  
